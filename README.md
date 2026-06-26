@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=496ba6&height=300&section=header&text=Minji%20Engine&fontSize=50&fontColor=FFFEC8" />
 </div>
 
-<h1 align="center">Hi there 👋, I'm 박민지</h1>
-<h3 align="center">게임 클라이언트 / 시스템 프로그래밍에 관심있는 개발자입니다</h3>
+<h1>Hi there 👋, I'm 박민지</h1>
+<h3>게임 클라이언트 / 시스템 프로그래밍에 관심있는 개발자입니다</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=batminji&label=Profile%20views&color=0e75b6&style=flat" alt="batminji" />
 </p>
 
